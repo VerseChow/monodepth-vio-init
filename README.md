@@ -1,15 +1,23 @@
+---
+title: "Learned Monocular Depth Priors in Visual-Inertial Initialization"
+layout: gridlay
+excerpt: "Learned Monocular Depth Priors in Visual-Inertial Initialization"
+sitemap: false
+permalink: /monodepth-vio-init/
+---
+
 [comment]: Title
 <h2 align="center"> Learned Monocular Depth Priors in Visual-Inertial Initialization  </h2>
 <p>&nbsp;</p>
 
 [comment]: Authors
 <p style="text-align: center;">
-<a href="http://versechow.github.io" style="color: #CC0000"> Yunwen Zhou* </a>
-<a> Abhishek Kar </a>
-<a> Eric Turner </a>
-<a> Adarsh Kowdle </a>
-<a> Chao X. Guo </a>
-<a> Ryan C. DuToit </a>
+<a> Yunwen Zhou, </a>
+<a> Abhishek Kar, </a>
+<a> Eric Turner, </a>
+<a> Adarsh Kowdle, </a>
+<a> Chao X. Guo, </a>
+<a> Ryan C. DuToit, </a>
 <a> Konstantine Tsotsos </a>
 &nbsp;
 </p>
