@@ -1,1 +1,1 @@
-
+Repository for the research paper Learned Monocular Depth Priors in Visual-Inertial Initialization - Yunwen Zhou*, Abhishek Kar, Eric Turner, Adarsh Kowdle, Chao X. Guo, Ryan C. DuToit, and Konstantine Tsotsos. ECCV 2022
