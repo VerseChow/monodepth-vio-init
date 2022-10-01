@@ -12,12 +12,18 @@ permalink: /monodepth-vio-init/
 
 [comment]: Authors
 <p style="text-align: center;">
-<a> Yunwen Zhou, </a>
-<a> Abhishek Kar, </a>
-<a> Eric Turner, </a>
-<a> Adarsh Kowdle, </a>
-<a> Chao X. Guo, </a>
-<a> Ryan C. DuToit, </a>
+<a> Yunwen Zhou </a>
+&nbsp;
+<a> Abhishek Kar </a>
+&nbsp;
+<a> Eric Turner </a>
+&nbsp;
+<a> Adarsh Kowdle </a>
+&nbsp;
+<a> Chao X. Guo </a>
+&nbsp;
+<a> Ryan C. DuToit </a>
+&nbsp;
 <a> Konstantine Tsotsos </a>
 &nbsp;
 </p>
